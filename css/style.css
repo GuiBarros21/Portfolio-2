@@ -653,6 +653,8 @@ textarea {
 {
   background-color: #0062b9;
   color: #ebebeb;
+  border-color: #000;
+
 }
   .skills__skill {
     padding: 1rem 2rem;
@@ -664,11 +666,11 @@ textarea {
     font-weight: 600;
     color: #777; }
 
-    .contact__porftifolio{
+  .contact__porftifolio{
       color: #0062b9;
       font-weight: 400;
       
-    }
+  }
 
 .mouse {
   width: 25px;
